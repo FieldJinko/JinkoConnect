@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Photo 1",
+    "description": "To launch the ball you need to tap on the screen and, without releasing it, drag it to the desired position, and then release it ",
+    "imageUrl": "https://i.ibb.co/njNSbyn/htp1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Photo 2",
+    "description": "Your task is to hit the white ball with the red ball, for each hit 1 point for each miss minus one life ",
+    "imageUrl": "https://i.ibb.co/QjDT8H9/htp2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Photo 3",
+    "description": "There is a pause button to freeze the game, and a home button to return to the main screen without ending the game ",
+    "imageUrl": "https://i.ibb.co/r64XVr2/htp3.jpg"
+  }
+
+]
